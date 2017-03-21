@@ -14,6 +14,7 @@ Once you have the project running locally on your computer. Pair up and make a p
 
 Here's what Amos wants:
 
+
 1. Be able to upload images of pets.
 1. To see what the pet is doing right now without reloading the page.
 1. Be able to purchase pets with credit card and paypal.
